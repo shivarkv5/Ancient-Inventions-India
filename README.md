@@ -33,9 +33,9 @@
 
 ![Ayurveda](http://careerwiki.in/wp-content/uploads/2016/03/Ayurveda-Doctor.jpg)
 
-[Ayurveda](image by http://careerwiki.in)
+[Ayurveda](Credits: image by http://careerwiki.in)
 
-[info](https://www.webmd.com/balance/guide/ayurvedic-treatments)
+[info]  (https://www.webmd.com/balance/guide/ayurvedic-treatments)
 
 
 
@@ -69,7 +69,7 @@
 
 [info](for more info https://en.wikipedia.org/wiki/Yoga)
 
-[Yoga](image by https://www.telegraph.co.uk/news/worldnews/asia/india/8222484/Yoga-bad-for-your-knees-Indian-doctor-warns.html)
+[Yoga]( Credits: image by https://www.telegraph.co.uk/news/worldnews/asia/india/8222484/Yoga-bad-for-your-knees-Indian-doctor-warns.html)
 
 
 
