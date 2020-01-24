@@ -24,6 +24,7 @@
 - Ayu means Life, Veda means Science 
 - It's ancient medicine system.
 - Originated 5000 years ago.
+
 ### Advantages
 1. Chemical free medicine
 2. Everything Organic and eco-friendly
@@ -32,9 +33,11 @@
 
 ![Ayurveda](http://careerwiki.in/wp-content/uploads/2016/03/Ayurveda-Doctor.jpg)
 
-[info](for more info: https://www.webmd.com/balance/guide/ayurvedic-treatments)
-
 [Ayurveda](image by http://careerwiki.in)
+
+[info](https://www.webmd.com/balance/guide/ayurvedic-treatments)
+
+
 
 
 
@@ -47,7 +50,7 @@
 
 [info](for more info https://www.medicinenet.com/script/main/art.asp?articlekey=6886)
 
-[Cataract](Image by https://www.dailyo.in/)
+[Cataract](Credits : https://www.dailyo.in/)
 
 
 ## 5.Yoga
