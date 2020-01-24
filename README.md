@@ -6,9 +6,9 @@
 - Invented by Aryabhatta, Brahmagupta also with the help of other mathematicians
 - Later it is used in China and then the rest of the world
 
-![zero](https://s3.scoopwhoop.com/anj/edx/162052365.jpg)
+![Image](https://s3.scoopwhoop.com/anj/edx/162052365.jpg)
 
-[Zero]( image by https://s3.scoopwhoop.com)
+[Image Credits]( image by https://s3.scoopwhoop.com)
 
 
 ## 2.Chess
@@ -16,7 +16,7 @@
 - Also known as chaturaṅga.
 ![Chess](https://s3.scoopwhoop.com/anj/edx/329412441.jpg)
 
-[Chess](image by https://s3.scoopwhoop.com)
+[Image Credits](image by https://s3.scoopwhoop.com)
 
 
 
@@ -33,7 +33,7 @@
 
 ![Ayurveda](http://careerwiki.in/wp-content/uploads/2016/03/Ayurveda-Doctor.jpg)
 
-[Ayurveda](Credits: image by http://careerwiki.in)
+[Image Credits: http://careerwiki.in ](Credits: image by http://careerwiki.in)
 
 [info](https://www.webmd.com/balance/guide/ayurvedic-treatments)
 
