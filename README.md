@@ -8,7 +8,7 @@
 
 ![Image](https://s3.scoopwhoop.com/anj/edx/162052365.jpg)
 
-Image Credits [Image]( image by https://s3.scoopwhoop.com)
+Image Credits: [https://s3.scoopwhoop.com](https://s3.scoopwhoop.com)
 
 
 ## 2.Chess
@@ -16,7 +16,7 @@ Image Credits [Image]( image by https://s3.scoopwhoop.com)
 - Also known as chaturaṅga.
 ![Chess](https://s3.scoopwhoop.com/anj/edx/329412441.jpg)
 
-Image Credits [Image](image by https://s3.scoopwhoop.com)
+Image Credits: [scoopwhoop.com](https://s3.scoopwhoop.com)
 
 
 
@@ -33,9 +33,9 @@ Image Credits [Image](image by https://s3.scoopwhoop.com)
 
 ![Ayurveda](http://careerwiki.in/wp-content/uploads/2016/03/Ayurveda-Doctor.jpg)
 
-Image Credits [Image](Credits: image by http://careerwiki.in)
+Image Credits: [careerwiki.in](Credits: image by http://careerwiki.in)
 
-For more information [information](https://www.webmd.com/balance/guide/ayurvedic-treatments)
+For more information: [Click here](https://www.webmd.com/balance/guide/ayurvedic-treatments)
 
 
 
@@ -48,9 +48,9 @@ For more information [information](https://www.webmd.com/balance/guide/ayurvedic
 
 ![Cataract](https://akm-img-a-in.tosshub.com/sites/dailyo/story/embed/201809/surgery1-copy_092618105950.jpg)
 
-For More Info [info](https://www.medicinenet.com/script/main/art.asp?articlekey=6886)
+For More Info: [Click here](https://www.medicinenet.com/script/main/art.asp?articlekey=6886)
 
-Image Credits [Cataract](Credits : https://www.dailyo.in/)
+Image Credits: [dailyyo.in](Credits : https://www.dailyo.in/)
 
 
 ## 5.Yoga
@@ -67,9 +67,9 @@ Image Credits [Cataract](Credits : https://www.dailyo.in/)
  
 ![Yoga](https://secure.i.telegraph.co.uk/multimedia/archive/01792/yoga_1792126c.jpg)
 
-For More Information [information](https://en.wikipedia.org/wiki/Yoga)
+For More Information: [Click here](https://en.wikipedia.org/wiki/Yoga)
 
-Image Credits [Yoga](https://www.telegraph.co.uk/news/worldnews/asia/india/8222484/Yoga-bad-for-your-knees-Indian-doctor-warns.html)
+Image Credits: [telegraph.co.uk](https://www.telegraph.co.uk/news/worldnews/asia/india/8222484/Yoga-bad-for-your-knees-Indian-doctor-warns.html)
 
 
 
