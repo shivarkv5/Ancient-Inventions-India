@@ -8,7 +8,7 @@
 
 ![zero](https://s3.scoopwhoop.com/anj/edx/162052365.jpg)
 
-[Zero Image Credits](image by https://s3.scoopwhoop.com)
+[Zero]( image by https://s3.scoopwhoop.com)
 
 
 ## 2.Chess
