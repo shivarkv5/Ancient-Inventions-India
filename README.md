@@ -8,7 +8,7 @@
 
 ![Image](https://s3.scoopwhoop.com/anj/edx/162052365.jpg)
 
-Image Credits: [https://s3.scoopwhoop.com](https://s3.scoopwhoop.com)
+Image Credits: [scoopwhoop.com](https://s3.scoopwhoop.com)
 
 
 ## 2.Chess
@@ -50,7 +50,7 @@ For more information: [Click here](https://www.webmd.com/balance/guide/ayurvedic
 
 For More Info: [Click here](https://www.medicinenet.com/script/main/art.asp?articlekey=6886)
 
-Image Credits: [dailyyo.in](Credits : https://www.dailyo.in/)
+Image Credits: [dailyo.in](Credits : https://www.dailyo.in/)
 
 
 ## 5.Yoga
