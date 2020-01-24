@@ -35,7 +35,7 @@
 
 [Ayurveda](Credits: image by http://careerwiki.in)
 
-[info]  (https://www.webmd.com/balance/guide/ayurvedic-treatments)
+[info](https://www.webmd.com/balance/guide/ayurvedic-treatments)
 
 
 
