@@ -16,7 +16,7 @@ Image Credits [Image]( image by https://s3.scoopwhoop.com)
 - Also known as chaturaṅga.
 ![Chess](https://s3.scoopwhoop.com/anj/edx/329412441.jpg)
 
-[Image Credits](image by https://s3.scoopwhoop.com)
+Image Credits[Image](image by https://s3.scoopwhoop.com)
 
 
 
@@ -33,7 +33,7 @@ Image Credits [Image]( image by https://s3.scoopwhoop.com)
 
 ![Ayurveda](http://careerwiki.in/wp-content/uploads/2016/03/Ayurveda-Doctor.jpg)
 
-[Image Credits: http://careerwiki.in ](Credits: image by http://careerwiki.in)
+Image Credits[Image](Credits: image by http://careerwiki.in)
 
 [info](https://www.webmd.com/balance/guide/ayurvedic-treatments)
 
@@ -48,9 +48,9 @@ Image Credits [Image]( image by https://s3.scoopwhoop.com)
 
 ![Cataract](https://akm-img-a-in.tosshub.com/sites/dailyo/story/embed/201809/surgery1-copy_092618105950.jpg)
 
-[info](for more info https://www.medicinenet.com/script/main/art.asp?articlekey=6886)
+For More Info [info](https://www.medicinenet.com/script/main/art.asp?articlekey=6886)
 
-[Cataract](Credits : https://www.dailyo.in/)
+Image Credits[Cataract](Credits : https://www.dailyo.in/)
 
 
 ## 5.Yoga
@@ -67,9 +67,9 @@ Image Credits [Image]( image by https://s3.scoopwhoop.com)
  
 ![Yoga](https://secure.i.telegraph.co.uk/multimedia/archive/01792/yoga_1792126c.jpg)
 
-[info](for more info https://en.wikipedia.org/wiki/Yoga)
+For More Information[info](https://en.wikipedia.org/wiki/Yoga)
 
-[Yoga]( Credits: image by https://www.telegraph.co.uk/news/worldnews/asia/india/8222484/Yoga-bad-for-your-knees-Indian-doctor-warns.html)
+Image Credits[Yoga](https://www.telegraph.co.uk/news/worldnews/asia/india/8222484/Yoga-bad-for-your-knees-Indian-doctor-warns.html)
 
 
 
