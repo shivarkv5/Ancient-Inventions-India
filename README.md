@@ -10,6 +10,8 @@
 
 Image Credits: [scoopwhoop.com](https://s3.scoopwhoop.com)
 
+For more info : [wikipedia.org](https://en.wikipedia.org/wiki/History_of_chess#India)
+
 
 ## 2.Chess
 -  6th century AD
@@ -70,7 +72,3 @@ Image Credits: [dailyo.in](Credits : https://www.dailyo.in/)
 For More Information: [Click here](https://en.wikipedia.org/wiki/Yoga)
 
 Image Credits: [telegraph.co.uk](https://www.telegraph.co.uk/news/worldnews/asia/india/8222484/Yoga-bad-for-your-knees-Indian-doctor-warns.html)
-
-
-
-
