@@ -10,7 +10,6 @@
 
 Image Credits: [scoopwhoop.com](https://s3.scoopwhoop.com)
 
-For more info : [wikipedia.org](https://en.wikipedia.org/wiki/History_of_chess#India)
 
 
 ## 2.Chess
@@ -19,6 +18,8 @@ For more info : [wikipedia.org](https://en.wikipedia.org/wiki/History_of_chess#I
 ![Chess](https://s3.scoopwhoop.com/anj/edx/329412441.jpg)
 
 Image Credits: [scoopwhoop.com](https://s3.scoopwhoop.com)
+
+For more info : [Click here!](https://en.wikipedia.org/wiki/History_of_chess#India)
 
 
 
@@ -37,7 +38,7 @@ Image Credits: [scoopwhoop.com](https://s3.scoopwhoop.com)
 
 Image Credits: [careerwiki.in](Credits: image by http://careerwiki.in)
 
-For more information: [Click here](https://www.webmd.com/balance/guide/ayurvedic-treatments)
+For more information: [Click here!](https://www.webmd.com/balance/guide/ayurvedic-treatments)
 
 
 
@@ -50,7 +51,7 @@ For more information: [Click here](https://www.webmd.com/balance/guide/ayurvedic
 
 ![Cataract](https://akm-img-a-in.tosshub.com/sites/dailyo/story/embed/201809/surgery1-copy_092618105950.jpg)
 
-For More Info: [Click here](https://www.medicinenet.com/script/main/art.asp?articlekey=6886)
+For More Info: [Click here!](https://www.medicinenet.com/script/main/art.asp?articlekey=6886)
 
 Image Credits: [dailyo.in](Credits : https://www.dailyo.in/)
 
@@ -69,6 +70,6 @@ Image Credits: [dailyo.in](Credits : https://www.dailyo.in/)
  
 ![Yoga](https://secure.i.telegraph.co.uk/multimedia/archive/01792/yoga_1792126c.jpg)
 
-For More Information: [Click here](https://en.wikipedia.org/wiki/Yoga)
+For More Information: [Click here!](https://en.wikipedia.org/wiki/Yoga)
 
 Image Credits: [telegraph.co.uk](https://www.telegraph.co.uk/news/worldnews/asia/india/8222484/Yoga-bad-for-your-knees-Indian-doctor-warns.html)
